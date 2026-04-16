@@ -8,27 +8,29 @@
 
 ### 🔬 Research - Projects Dashboard（按总 Stars 排序）
 
-| Rank | Framework | Stars | Weekly ⬆️ | Language |
+| Rank | Framework | Stars | Daily ⬆️ | Language |
 |------|-----------|-------|----------|----------|
-| 1 | **karpathy/autoresearch** | 72,284 | +610 | Python |
-| 2 | **stanford-oval/storm** | 28,081 | +7 | Python |
-| 3 | **assafelovic/gpt-researcher** | 26,452 | +25 | Python |
-| 4 | **dzhng/deep-research** | 18,749 | +9 | Python |
-| 5 | **Alibaba-NLP/DeepResearch** | 18,661 | +3 | Python |
-| 6 | **HKUDS/DeepTutor** | 18,139 | +350 | Python |
-| 7 | **Leey21/awesome-ai-research-writing** | 17,582 | +204 | Unknown |
-| 8 | **SakanaAI/AI-Scientist** | 13,234 | +19 | Jupyter |
-| 9 | **aiming-lab/AutoResearchClaw** | 11,152 | +43 | Python |
-| 10 | **wanshuiyin/Auto-claude-code-research-in-sleep** | 6,603 | +109 | Python |
+| 1 | **karpathy/autoresearch** | 73,037 | +753 | Python |
+| 2 | **stanford-oval/storm** | 28,093 | +12 | Python |
+| 3 | **assafelovic/gpt-researcher** | 26,480 | +28 | Python |
+| 4 | **dzhng/deep-research** | 18,757 | +8 | Python |
+| 5 | **Alibaba-NLP/DeepResearch** | 18,665 | +4 | Python |
+| 6 | **HKUDS/DeepTutor** | 18,583 | +444 | Python |
+| 7 | **Leey21/awesome-ai-research-writing** | 17,854 | +272 | Unknown |
+| 8 | **SakanaAI/AI-Scientist** | 13,264 | +30 | Jupyter |
+| 9 | **aiming-lab/AutoResearchClaw** | 11,232 | +80 | Python |
+| 10 | **wanshuiyin/Auto-claude-code-research-in-sleep** | 6,795 | +192 | Python |
 
 ---
 
-### 🔬 Research - Daily Dashboard（按周增 Stars 排序）
+### 🔬 Research - Daily Dashboard（按日增 Stars 排序）
 
-| Rank | Framework | Weekly ⬆️ | Total Stars | 趋势 |
+> ⚠️ 注意：数据为**日增**（与昨天对比），非周增
+
+| Rank | Framework | Daily ⬆️ | Total Stars | 趋势 |
 |------|-----------|----------|-------------|------|
-| 1 | **karpathy/autoresearch** | +610 | 72,284 | 🔥🔥🔥🔥🔥 |
-| 2 | **HKUDS/DeepTutor** | +350 | 18,139 | 🔥🔥🔥🔥 |
+| 1 | **karpathy/autoresearch** | +753 | 73,037 | 🔥🔥🔥🔥🔥 |
+| 2 | **HKUDS/DeepTutor** | +444 | 18,583 | 🔥🔥🔥🔥 |
 | 3 | **Leey21/awesome-ai-research-writing** | +204 | 17,582 | 🔥🔥🔥 |
 | 4 | **wanshuiyin/Auto-claude-code-research-in-sleep** | +109 | 6,603 | 🔥🔥 |
 | 5 | **GAIR-NLP/ASI-Evolve** | +80 | 320 | 🔥🔥 |
@@ -42,10 +44,18 @@
 
 ### 🛠️ General - Projects Dashboard（按总 Stars 排序）
 
-| Rank | Framework | Stars | Weekly ⬆️ | Language |
+| Rank | Framework | Stars | Daily ⬆️ | Language |
 |------|-----------|-------|----------|----------|
-| 1 | **openclaw/openclaw** | 357,391 | +749 | TypeScript |
-| 2 | **Significant-Gravitas/AutoGPT** | 183,432 | +30 | Python |
+| 1 | **openclaw/openclaw** | 358,495 | +1,104 | TypeScript |
+| 2 | **Significant-Gravitas/AutoGPT** | 183,483 | +51 | Python |
+| 3 | **langchain-ai/langchain** | 133,751 | +189 | Python |
+| 4 | **NousResearch/hermes-agent** | 91,849 | +7,453 🔥 | Python |
+| 5 | **FoundationAgents/MetaGPT** | 67,128 | +56 | Python |
+| 6 | **bytedance/deer-flow** | 61,951 | +430 | Python |
+| 7 | **microsoft/autogen** | 57,140 | +57 | Python |
+| 8 | **crewAIInc/crewAI** | 48,995 | +110 | Python |
+| 9 | **run-llama/llama_index** | 48,628 | +29 | Python |
+| 10 | **CherryHQ/cherry-studio** | 43,583 | +93 | TypeScript |
 | 3 | **langchain-ai/langchain** | 133,562 | +110 | Python |
 | 4 | **NousResearch/hermes-agent** | 84,396 | +6,392 🔥 | Python |
 | 5 | **FoundationAgents/MetaGPT** | 67,072 | +44 | Python |
@@ -57,13 +67,15 @@
 
 ---
 
-### 🛠️ General - Daily Dashboard（按周增 Stars 排序）
+### 🛠️ General - Daily Dashboard（按日增 Stars 排序）
 
-| Rank | Framework | Weekly ⬆️ | Total Stars | 趋势 |
+> ⚠️ 注意：数据为**日增**（与昨天对比），非周增
+
+| Rank | Framework | Daily ⬆️ | Total Stars | 趋势 |
 |------|-----------|----------|-------------|------|
-| 1 | **NousResearch/hermes-agent** | +6,392 🔥🔥🔥🔥🔥 | 84,396 | **爆发** |
-| 2 | **openclaw/openclaw** | +749 | 357,391 | 🔥🔥🔥🔥 |
-| 3 | **bytedance/deer-flow** | +332 | 61,521 | 🔥🔥🔥 |
+| 1 | **NousResearch/hermes-agent** | +7,453 🔥🔥🔥🔥🔥 | 91,849 | **爆发** |
+| 2 | **openclaw/openclaw** | +1,104 | 358,495 | 🔥🔥🔥🔥 |
+| 3 | **bytedance/deer-flow** | +430 | 61,951 | 🔥🔥🔥 |
 | 4 | **langchain-ai/langchain** | +110 | 133,562 | 🔥🔥 |
 | 5 | **langchain-ai/langgraph** | +89 | 29,261 | 🔥🔥 |
 | 6 | **crewAIInc/crewAI** | +73 | 48,885 | 🔥🔥 |
@@ -91,25 +103,25 @@
 
 ---
 
-#### 📈 爆发增长型（高周增，中/高总 Stars）
+#### 📈 爆发增长型（高日增，中/高总 Stars）
 
-| Framework | Weekly Stars | Total Stars | 增长率 |
+| Framework | Daily Stars | Total Stars | 增长率 |
 |-----------|-------------|-------------|--------|
-| **NousResearch/hermes-agent** | +6,392 🔥🔥🔥🔥🔥 | 84,396 | **7.5%** |
-| **karpathy/autoresearch** | +610 | 72,284 | 0.8% |
-| **HKUDS/DeepTutor** | +350 | 18,139 | 1.9% |
-| **bytedance/deer-flow** | +332 | 61,521 | 0.5% |
+| **NousResearch/hermes-agent** | +7,453 🔥🔥🔥🔥🔥 | 91,849 | **8.1%/day** |
+| **karpathy/autoresearch** | +753 | 73,037 | 1.0% |
+| **HKUDS/DeepTutor** | +444 | 18,583 | 2.4% |
+| **bytedance/deer-flow** | +430 | 61,951 | 0.7% |
 
-**结论**：`hermes-agent` 增长惊人（周增 7.5%），值得关注！
+**结论**：`hermes-agent` 增长惊人（日增 8.1%），远超其他所有框架！
 
 ---
 
-#### 🚀 新星崛起（低总 Stars，高周增）
+#### 🚀 新星崛起（低总 Stars，高日增）
 
-| Framework | Weekly Stars | Total Stars | 潜力 |
+| Framework | Daily Stars | Total Stars | 潜力 |
 |-----------|-------------|-------------|------|
-| **GAIR-NLP/ASI-Evolve** | +80 | 320 | ⭐⭐⭐⭐ |
-| **wanshuiyin/Auto-claude-code-research-in-sleep** | +109 | 6,603 | ⭐⭐⭐ |
+| **GAIR-NLP/ASI-Evolve** | +41 | 361 | ⭐⭐⭐⭐ |
+| **wanshuiyin/Auto-claude-code-research-in-sleep** | +192 | 6,795 | ⭐⭐⭐ |
 | **SakanaAI/AI-Scientist-v2** | +22 | 5,500 | ⭐⭐⭐ |
 
 **结论**：这些是潜力新星，可能在未来几个月爆发。
@@ -145,13 +157,13 @@
 
 ### 4. 框架活跃度对比
 
-| Framework | Weekly Stars | 增长率 | 活跃度评估 |
+| Framework | Daily Stars | 增长率 | 活跃度评估 |
 |-----------|-------------|--------|-----------|
-| **NousResearch/hermes-agent** | +6,392 | 7.5% | 🚀 **爆发期** |
-| **openclaw/openclaw** | +749 | 0.2% | 🔥 成熟期 |
-| **karpathy/autoresearch** | +610 | 0.8% | 🔥 快速增长 |
-| **HKUDS/DeepTutor** | +350 | 1.9% | 🔥 快速增长 |
-| **bytedance/deer-flow** | +332 | 0.5% | 🔥 稳定增长 |
+| **NousResearch/hermes-agent** | +7,453 | 8.1% | 🚀 **爆发期** |
+| **openclaw/openclaw** | +1,104 | 0.3% | 🔥 成熟期 |
+| **karpathy/autoresearch** | +753 | 1.0% | 🔥 快速增长 |
+| **HKUDS/DeepTutor** | +444 | 2.4% | 🔥 快速增长 |
+| **bytedance/deer-flow** | +430 | 0.7% | 🔥 稳定增长 |
 
 ---
 
@@ -190,11 +202,18 @@
 
 ## 🔥 2026 热点发现
 
-### NousResearch/hermes-agent 周增 6,392 Stars！
+### NousResearch/hermes-agent 日增 7,453 Stars！
+
+**历史数据对比：**
+| 日期 | Stars | 变化 |
+|------|-------|------|
+| 2026-04-14 | 78,004 | - |
+| 2026-04-15 | 84,396 | +6,392 |
+| 2026-04-16 | 91,849 | +7,453 |
 
 **分析**：
-- 增长率 7.5%/week（远超其他框架）
-- 总 Stars 84K，仅 1-2 周就增长 6K+
+- 增长率 **8.1%/day**（远超其他框架）
+- 两天增长 **13,845 Stars**
 - 官方描述："The agent that grows with you"
 
 **可能原因**：
@@ -202,7 +221,7 @@
 - 新发布或重大更新
 - 社区推广
 
-**建议**：密切关注此框架，可能是 2026 年黑马。
+**建议**：密切关注此框架，可能是 2026 年最大黑马。
 
 ---
 
@@ -243,7 +262,7 @@
 
 ### 短期（Q2-Q3）
 
-1. **NousResearch/hermes-agent** 破 100K Stars（按当前增长 2-3 周）
+1. **NousResearch/hermes-agent** 破 100K Stars（按当前增长 1-2 天）
 2. **karpathy/autoresearch** 破 80K Stars
 3. **HKUDS/DeepTutor** 教育市场爆发
 

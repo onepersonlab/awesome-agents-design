@@ -1,66 +1,67 @@
 {
-  "last_updated": "2026-04-16T09:59:02Z",
+  "last_updated": "2026-04-16T10:08:27Z",
   "source": "OnePersonLab Website (https://github.com/onepersonlab/onepersonlab-website)",
+  "note": "daily_stars = 当前Stars - 昨天Stars（日增，非周增）",
   "dashboards": {
     "research_projects": [
       {
         "name": "karpathy/autoresearch",
         "stars": 73037,
-        "weekly_stars": 753,
+        "daily_stars": 753,
         "language": "Python"
       },
       {
         "name": "stanford-oval/storm",
         "stars": 28093,
-        "weekly_stars": 12,
+        "daily_stars": 12,
         "language": "Python"
       },
       {
         "name": "assafelovic/gpt-researcher",
         "stars": 26480,
-        "weekly_stars": 28,
+        "daily_stars": 28,
         "language": "Python"
       },
       {
         "name": "dzhng/deep-research",
         "stars": 18757,
-        "weekly_stars": 8,
+        "daily_stars": 8,
         "language": "TypeScript"
       },
       {
         "name": "Alibaba-NLP/DeepResearch",
         "stars": 18665,
-        "weekly_stars": 4,
+        "daily_stars": 4,
         "language": "Python"
       },
       {
         "name": "HKUDS/DeepTutor",
         "stars": 18583,
-        "weekly_stars": 444,
+        "daily_stars": 444,
         "language": "Python"
       },
       {
         "name": "Leey21/awesome-ai-research-writing",
         "stars": 17854,
-        "weekly_stars": 272,
+        "daily_stars": 272,
         "language": "Unknown"
       },
       {
         "name": "SakanaAI/AI-Scientist",
         "stars": 13264,
-        "weekly_stars": 30,
+        "daily_stars": 30,
         "language": "Jupyter Notebook"
       },
       {
         "name": "aiming-lab/AutoResearchClaw",
         "stars": 11232,
-        "weekly_stars": 80,
+        "daily_stars": 80,
         "language": "Python"
       },
       {
         "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
         "stars": 6795,
-        "weekly_stars": 192,
+        "daily_stars": 192,
         "language": "Python"
       }
     ],
@@ -68,61 +69,61 @@
       {
         "name": "karpathy/autoresearch",
         "stars": 73037,
-        "weekly_stars": 753,
+        "daily_stars": 753,
         "language": "Python"
       },
       {
         "name": "HKUDS/DeepTutor",
         "stars": 18583,
-        "weekly_stars": 444,
+        "daily_stars": 444,
         "language": "Python"
       },
       {
         "name": "Leey21/awesome-ai-research-writing",
         "stars": 17854,
-        "weekly_stars": 272,
+        "daily_stars": 272,
         "language": "Unknown"
       },
       {
         "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
         "stars": 6795,
-        "weekly_stars": 192,
+        "daily_stars": 192,
         "language": "Python"
       },
       {
         "name": "aiming-lab/AutoResearchClaw",
         "stars": 11232,
-        "weekly_stars": 80,
+        "daily_stars": 80,
         "language": "Python"
       },
       {
         "name": "SakanaAI/AI-Scientist-v2",
         "stars": 5549,
-        "weekly_stars": 49,
+        "daily_stars": 49,
         "language": "Python"
       },
       {
         "name": "Galaxy-Dawn/claude-scholar",
         "stars": 3392,
-        "weekly_stars": 49,
+        "daily_stars": 49,
         "language": "Python"
       },
       {
         "name": "GAIR-NLP/ASI-Evolve",
         "stars": 361,
-        "weekly_stars": 41,
+        "daily_stars": 41,
         "language": "Python"
       },
       {
         "name": "dwzhu-pku/PaperBanana",
         "stars": 5884,
-        "weekly_stars": 35,
+        "daily_stars": 35,
         "language": "Python"
       },
       {
         "name": "SakanaAI/AI-Scientist",
         "stars": 13264,
-        "weekly_stars": 30,
+        "daily_stars": 30,
         "language": "Jupyter Notebook"
       }
     ],
@@ -130,61 +131,61 @@
       {
         "name": "openclaw/openclaw",
         "stars": 358495,
-        "weekly_stars": 1104,
+        "daily_stars": 1104,
         "language": "TypeScript"
       },
       {
         "name": "Significant-Gravitas/AutoGPT",
         "stars": 183483,
-        "weekly_stars": 51,
+        "daily_stars": 51,
         "language": "Python"
       },
       {
         "name": "langchain-ai/langchain",
         "stars": 133751,
-        "weekly_stars": 189,
+        "daily_stars": 189,
         "language": "Python"
       },
       {
         "name": "NousResearch/hermes-agent",
         "stars": 91849,
-        "weekly_stars": 7453,
+        "daily_stars": 7453,
         "language": "Python"
       },
       {
         "name": "FoundationAgents/MetaGPT",
         "stars": 67128,
-        "weekly_stars": 56,
+        "daily_stars": 56,
         "language": "Python"
       },
       {
         "name": "bytedance/deer-flow",
         "stars": 61951,
-        "weekly_stars": 430,
+        "daily_stars": 430,
         "language": "Python"
       },
       {
         "name": "microsoft/autogen",
         "stars": 57140,
-        "weekly_stars": 57,
+        "daily_stars": 57,
         "language": "Python"
       },
       {
         "name": "crewAIInc/crewAI",
         "stars": 48995,
-        "weekly_stars": 110,
+        "daily_stars": 110,
         "language": "Python"
       },
       {
         "name": "run-llama/llama_index",
         "stars": 48628,
-        "weekly_stars": 29,
+        "daily_stars": 29,
         "language": "Python"
       },
       {
         "name": "CherryHQ/cherry-studio",
         "stars": 43583,
-        "weekly_stars": 93,
+        "daily_stars": 93,
         "language": "TypeScript"
       }
     ],
@@ -192,61 +193,61 @@
       {
         "name": "NousResearch/hermes-agent",
         "stars": 91849,
-        "weekly_stars": 7453,
+        "daily_stars": 7453,
         "language": "Python"
       },
       {
         "name": "openclaw/openclaw",
         "stars": 358495,
-        "weekly_stars": 1104,
+        "daily_stars": 1104,
         "language": "TypeScript"
       },
       {
         "name": "bytedance/deer-flow",
         "stars": 61951,
-        "weekly_stars": 430,
+        "daily_stars": 430,
         "language": "Python"
       },
       {
         "name": "langchain-ai/langchain",
         "stars": 133751,
-        "weekly_stars": 189,
+        "daily_stars": 189,
         "language": "Python"
       },
       {
         "name": "langchain-ai/langgraph",
         "stars": 29421,
-        "weekly_stars": 160,
+        "daily_stars": 160,
         "language": "Python"
       },
       {
         "name": "openai/openai-agents-python",
         "stars": 20896,
-        "weekly_stars": 115,
+        "daily_stars": 115,
         "language": "Python"
       },
       {
         "name": "crewAIInc/crewAI",
         "stars": 48995,
-        "weekly_stars": 110,
+        "daily_stars": 110,
         "language": "Python"
       },
       {
         "name": "CherryHQ/cherry-studio",
         "stars": 43583,
-        "weekly_stars": 93,
+        "daily_stars": 93,
         "language": "TypeScript"
       },
       {
         "name": "microsoft/autogen",
         "stars": 57140,
-        "weekly_stars": 57,
+        "daily_stars": 57,
         "language": "Python"
       },
       {
         "name": "FoundationAgents/MetaGPT",
         "stars": 67128,
-        "weekly_stars": 56,
+        "daily_stars": 56,
         "language": "Python"
       }
     ]
@@ -256,7 +257,7 @@
       "name": "karpathy/autoresearch",
       "url": "https://github.com/karpathy/autoresearch",
       "stars": 73037,
-      "weekly_stars": 753,
+      "daily_stars": 753,
       "forks": 10655,
       "language": "Python",
       "description": "AI agents running research on single-GPU nanochat training automatically",
@@ -267,7 +268,7 @@
       "name": "stanford-oval/storm",
       "url": "https://github.com/stanford-oval/storm",
       "stars": 28093,
-      "weekly_stars": 12,
+      "daily_stars": 12,
       "forks": 2560,
       "language": "Python",
       "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report ",
@@ -278,7 +279,7 @@
       "name": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
       "stars": 26480,
-      "weekly_stars": 28,
+      "daily_stars": 28,
       "forks": 3529,
       "language": "Python",
       "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
@@ -289,7 +290,7 @@
       "name": "dzhng/deep-research",
       "url": "https://github.com/dzhng/deep-research",
       "stars": 18757,
-      "weekly_stars": 8,
+      "daily_stars": 8,
       "forks": 1935,
       "language": "TypeScript",
       "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining se",
@@ -300,7 +301,7 @@
       "name": "Alibaba-NLP/DeepResearch",
       "url": "https://github.com/Alibaba-NLP/DeepResearch",
       "stars": 18665,
-      "weekly_stars": 4,
+      "daily_stars": 4,
       "forks": 1438,
       "language": "Python",
       "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
@@ -311,7 +312,7 @@
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "stars": 18583,
-      "weekly_stars": 444,
+      "daily_stars": 444,
       "forks": 2449,
       "language": "Python",
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
@@ -322,7 +323,7 @@
       "name": "Leey21/awesome-ai-research-writing",
       "url": "https://github.com/Leey21/awesome-ai-research-writing",
       "stars": 17854,
-      "weekly_stars": 272,
+      "daily_stars": 272,
       "forks": 1443,
       "language": "Unknown",
       "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
@@ -333,7 +334,7 @@
       "name": "SakanaAI/AI-Scientist",
       "url": "https://github.com/SakanaAI/AI-Scientist",
       "stars": 13264,
-      "weekly_stars": 30,
+      "daily_stars": 30,
       "forks": 1902,
       "language": "Jupyter Notebook",
       "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬",
@@ -344,7 +345,7 @@
       "name": "aiming-lab/AutoResearchClaw",
       "url": "https://github.com/aiming-lab/AutoResearchClaw",
       "stars": 11232,
-      "weekly_stars": 80,
+      "daily_stars": 80,
       "forks": 1285,
       "language": "Python",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
@@ -355,7 +356,7 @@
       "name": "wanshuiyin/Auto-claude-code-research-in-sleep",
       "url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
       "stars": 6795,
-      "weekly_stars": 192,
+      "daily_stars": 192,
       "forks": 636,
       "language": "Python",
       "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cros",
@@ -366,7 +367,7 @@
       "name": "SakanaAI/AI-Scientist-v2",
       "url": "https://github.com/SakanaAI/AI-Scientist-v2",
       "stars": 5549,
-      "weekly_stars": 49,
+      "daily_stars": 49,
       "forks": 770,
       "language": "Python",
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
@@ -377,7 +378,7 @@
       "name": "Galaxy-Dawn/claude-scholar",
       "url": "https://github.com/Galaxy-Dawn/claude-scholar",
       "stars": 3392,
-      "weekly_stars": 49,
+      "daily_stars": 49,
       "forks": 309,
       "language": "Python",
       "description": "Semi-automated research assistant for academic research and software development. Supports Claude Co",
@@ -388,7 +389,7 @@
       "name": "GAIR-NLP/ASI-Evolve",
       "url": "https://github.com/GAIR-NLP/ASI-Evolve",
       "stars": 361,
-      "weekly_stars": 41,
+      "daily_stars": 41,
       "forks": 79,
       "language": "Python",
       "description": "No description",
@@ -399,7 +400,7 @@
       "name": "dwzhu-pku/PaperBanana",
       "url": "https://github.com/dwzhu-pku/PaperBanana",
       "stars": 5884,
-      "weekly_stars": 35,
+      "daily_stars": 35,
       "forks": 421,
       "language": "Python",
       "description": "PaperBanana: Automating Academic Illustration For AI Scientists",
@@ -410,7 +411,7 @@
       "name": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "stars": 358495,
-      "weekly_stars": 1104,
+      "daily_stars": 1104,
       "forks": 72878,
       "language": "TypeScript",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
@@ -421,7 +422,7 @@
       "name": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "stars": 183483,
-      "weekly_stars": 51,
+      "daily_stars": 51,
       "forks": 46223,
       "language": "Python",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provi",
@@ -432,7 +433,7 @@
       "name": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "stars": 133751,
-      "weekly_stars": 189,
+      "daily_stars": 189,
       "forks": 22102,
       "language": "Python",
       "description": "The agent engineering platform",
@@ -443,7 +444,7 @@
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "stars": 91849,
-      "weekly_stars": 7453,
+      "daily_stars": 7453,
       "forks": 12667,
       "language": "Python",
       "description": "The agent that grows with you",
@@ -454,7 +455,7 @@
       "name": "FoundationAgents/MetaGPT",
       "url": "https://github.com/FoundationAgents/MetaGPT",
       "stars": 67128,
-      "weekly_stars": 56,
+      "daily_stars": 56,
       "forks": 8506,
       "language": "Python",
       "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
@@ -465,7 +466,7 @@
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "stars": 61951,
-      "weekly_stars": 430,
+      "daily_stars": 430,
       "forks": 7986,
       "language": "Python",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of",
@@ -476,7 +477,7 @@
       "name": "microsoft/autogen",
       "url": "https://github.com/microsoft/autogen",
       "stars": 57140,
-      "weekly_stars": 57,
+      "daily_stars": 57,
       "forks": 8598,
       "language": "Python",
       "description": "A programming framework for agentic AI",
@@ -487,7 +488,7 @@
       "name": "crewAIInc/crewAI",
       "url": "https://github.com/crewAIInc/crewAI",
       "stars": 48995,
-      "weekly_stars": 110,
+      "daily_stars": 110,
       "forks": 6698,
       "language": "Python",
       "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intellige",
@@ -498,7 +499,7 @@
       "name": "run-llama/llama_index",
       "url": "https://github.com/run-llama/llama_index",
       "stars": 48628,
-      "weekly_stars": 29,
+      "daily_stars": 29,
       "forks": 7197,
       "language": "Python",
       "description": "LlamaIndex is the leading document agent and OCR platform",
@@ -509,7 +510,7 @@
       "name": "CherryHQ/cherry-studio",
       "url": "https://github.com/CherryHQ/cherry-studio",
       "stars": 43583,
-      "weekly_stars": 93,
+      "daily_stars": 93,
       "forks": 4092,
       "language": "TypeScript",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to fr",
@@ -520,7 +521,7 @@
       "name": "langchain-ai/langgraph",
       "url": "https://github.com/langchain-ai/langgraph",
       "stars": 29421,
-      "weekly_stars": 160,
+      "daily_stars": 160,
       "forks": 5033,
       "language": "Python",
       "description": "Build resilient language agents as graphs.",
@@ -531,7 +532,7 @@
       "name": "openai/openai-agents-python",
       "url": "https://github.com/openai/openai-agents-python",
       "stars": 20896,
-      "weekly_stars": 115,
+      "daily_stars": 115,
       "forks": 3425,
       "language": "Python",
       "description": "A lightweight, powerful framework for multi-agent workflows",
@@ -544,6 +545,6 @@
     "total_stars": 1393266,
     "most_popular": "openclaw/openclaw",
     "fastest_growing": "NousResearch/hermes-agent",
-    "highest_weekly_stars": 7453
+    "highest_daily_stars": 7453
   }
 }

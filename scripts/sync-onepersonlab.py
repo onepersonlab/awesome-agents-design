@@ -56,11 +56,13 @@ def deduplicate(all_frameworks):
 
 def format_framework(fw):
     """Format framework data for output."""
+    # Note: weeklyStars in source is actually daily change (misleading name)
+    daily_stars = fw.get("weeklyStars", 0)
     return {
         "name": fw["full_name"],
         "url": fw.get("url", f"https://github.com/{fw['full_name']}"),
         "stars": fw["stars"],
-        "weekly_stars": fw.get("weeklyStars", 0),
+        "daily_stars": daily_stars,  # Actually daily change, not weekly
         "forks": fw.get("forks", 0),
         "language": fw.get("language", "Unknown"),
         "description": fw.get("description", "")[:100],
@@ -108,12 +110,13 @@ def main():
     output = {
         "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "source": "OnePersonLab Website (https://github.com/onepersonlab/onepersonlab-website)",
+        "note": "daily_stars = 当前Stars - 昨天Stars（日增，非周增）",
         "dashboards": {
             "research_projects": [
                 {
                     "name": fw["full_name"],
                     "stars": fw["stars"],
-                    "weekly_stars": fw.get("weeklyStars", 0),
+                    "daily_stars": fw.get("weeklyStars", 0),
                     "language": fw.get("language", "Unknown"),
                 }
                 for fw in research_dashboards["research_projects"]
@@ -122,7 +125,7 @@ def main():
                 {
                     "name": fw["full_name"],
                     "stars": fw["stars"],
-                    "weekly_stars": fw.get("weeklyStars", 0),
+                    "daily_stars": fw.get("weeklyStars", 0),
                     "language": fw.get("language", "Unknown"),
                 }
                 for fw in research_dashboards["research_daily"]
@@ -131,7 +134,7 @@ def main():
                 {
                     "name": fw["full_name"],
                     "stars": fw["stars"],
-                    "weekly_stars": fw.get("weeklyStars", 0),
+                    "daily_stars": fw.get("weeklyStars", 0),
                     "language": fw.get("language", "Unknown"),
                 }
                 for fw in general_dashboards["general_projects"]
@@ -140,7 +143,7 @@ def main():
                 {
                     "name": fw["full_name"],
                     "stars": fw["stars"],
-                    "weekly_stars": fw.get("weeklyStars", 0),
+                    "daily_stars": fw.get("weeklyStars", 0),
                     "language": fw.get("language", "Unknown"),
                 }
                 for fw in general_dashboards["general_daily"]
@@ -151,8 +154,8 @@ def main():
             "total_frameworks": len(formatted_frameworks),
             "total_stars": sum(fw["stars"] for fw in formatted_frameworks),
             "most_popular": max(formatted_frameworks, key=lambda x: x["stars"])["name"],
-            "fastest_growing": max(formatted_frameworks, key=lambda x: x["weekly_stars"])["name"],
-            "highest_weekly_stars": max(fw["weekly_stars"] for fw in formatted_frameworks),
+            "fastest_growing": max(formatted_frameworks, key=lambda x: x["daily_stars"])["name"],
+            "highest_daily_stars": max(fw["daily_stars"] for fw in formatted_frameworks),
         }
     }
     
@@ -164,24 +167,24 @@ def main():
     print("\n=== Summary ===")
     print(f"Most Popular: {output['summary']['most_popular']}")
     print(f"Fastest Growing: {output['summary']['fastest_growing']}")
-    print(f"Highest Weekly Stars: {output['summary']['highest_weekly_stars']}")
+    print(f"Highest Daily Stars: {output['summary']['highest_daily_stars']}")
     
     # Print dashboard top 10s
     print("\n=== Research - Projects Dashboard (Top 10) ===")
     for i, fw in enumerate(output["dashboards"]["research_projects"], 1):
-        print(f"{i}. {fw['name']}: {fw['stars']} stars (+{fw['weekly_stars']}/week)")
+        print(f"{i}. {fw['name']}: {fw['stars']} stars (+{fw['daily_stars']}/day)")
     
     print("\n=== Research - Daily Dashboard (Top 10) ===")
     for i, fw in enumerate(output["dashboards"]["research_daily"], 1):
-        print(f"{i}. {fw['name']}: +{fw['weekly_stars']}/week ({fw['stars']} total)")
+        print(f"{i}. {fw['name']}: +{fw['daily_stars']}/day ({fw['stars']} total)")
     
     print("\n=== General - Projects Dashboard (Top 10) ===")
     for i, fw in enumerate(output["dashboards"]["general_projects"], 1):
-        print(f"{i}. {fw['name']}: {fw['stars']} stars (+{fw['weekly_stars']}/week)")
+        print(f"{i}. {fw['name']}: {fw['stars']} stars (+{fw['daily_stars']}/day)")
     
     print("\n=== General - Daily Dashboard (Top 10) ===")
     for i, fw in enumerate(output["dashboards"]["general_daily"], 1):
-        print(f"{i}. {fw['name']}: +{fw['weekly_stars']}/week ({fw['stars']} total)")
+        print(f"{i}. {fw['name']}: +{fw['daily_stars']}/day ({fw['stars']} total)")
 
 if __name__ == "__main__":
     main()
