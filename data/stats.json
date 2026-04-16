@@ -1,7 +1,10 @@
 {
-  "last_updated": "2026-04-16T10:08:27Z",
+  "last_updated": "2026-04-16T10:10:00Z",
   "source": "OnePersonLab Website (https://github.com/onepersonlab/onepersonlab-website)",
-  "note": "daily_stars = 当前Stars - 昨天Stars（日增，非周增）",
+  "notes": [
+    "daily_stars = 当前Stars - 昨天Stars（日增，非周增）",
+    "last_commit = GitHub仓库最后一次commit时间（不是网站更新时间）"
+  ],
   "dashboards": {
     "research_projects": [
       {
@@ -261,7 +264,7 @@
       "forks": 10655,
       "language": "Python",
       "description": "AI agents running research on single-GPU nanochat training automatically",
-      "updated": "2026-04-16T09:55:43Z",
+      "last_commit": "2026-04-16T09:55:43Z",
       "category": "research"
     },
     {
@@ -272,7 +275,7 @@
       "forks": 2560,
       "language": "Python",
       "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report ",
-      "updated": "2026-04-16T08:10:48Z",
+      "last_commit": "2026-04-16T08:10:48Z",
       "category": "research"
     },
     {
@@ -283,7 +286,7 @@
       "forks": 3529,
       "language": "Python",
       "description": "An autonomous agent that conducts deep research on any data using any LLM providers",
-      "updated": "2026-04-16T09:49:25Z",
+      "last_commit": "2026-04-16T09:49:25Z",
       "category": "research"
     },
     {
@@ -294,7 +297,7 @@
       "forks": 1935,
       "language": "TypeScript",
       "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining se",
-      "updated": "2026-04-16T06:39:15Z",
+      "last_commit": "2026-04-16T06:39:15Z",
       "category": "research"
     },
     {
@@ -305,7 +308,7 @@
       "forks": 1438,
       "language": "Python",
       "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
-      "updated": "2026-04-16T07:52:40Z",
+      "last_commit": "2026-04-16T07:52:40Z",
       "category": "research"
     },
     {
@@ -316,7 +319,7 @@
       "forks": 2449,
       "language": "Python",
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "updated": "2026-04-16T09:55:40Z",
+      "last_commit": "2026-04-16T09:55:40Z",
       "category": "research"
     },
     {
@@ -327,7 +330,7 @@
       "forks": 1443,
       "language": "Unknown",
       "description": "Elevate your AI research writing, no more tedious polishing ✨ ",
-      "updated": "2026-04-16T09:57:09Z",
+      "last_commit": "2026-04-16T09:57:09Z",
       "category": "research"
     },
     {
@@ -338,7 +341,7 @@
       "forks": 1902,
       "language": "Jupyter Notebook",
       "description": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬",
-      "updated": "2026-04-16T08:54:30Z",
+      "last_commit": "2026-04-16T08:54:30Z",
       "category": "research"
     },
     {
@@ -349,7 +352,7 @@
       "forks": 1285,
       "language": "Python",
       "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
-      "updated": "2026-04-16T08:59:55Z",
+      "last_commit": "2026-04-16T08:59:55Z",
       "category": "research"
     },
     {
@@ -360,7 +363,7 @@
       "forks": 636,
       "language": "Python",
       "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cros",
-      "updated": "2026-04-16T09:49:05Z",
+      "last_commit": "2026-04-16T09:49:05Z",
       "category": "research"
     },
     {
@@ -371,7 +374,7 @@
       "forks": 770,
       "language": "Python",
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "updated": "2026-04-16T09:43:52Z",
+      "last_commit": "2026-04-16T09:43:52Z",
       "category": "other"
     },
     {
@@ -382,7 +385,7 @@
       "forks": 309,
       "language": "Python",
       "description": "Semi-automated research assistant for academic research and software development. Supports Claude Co",
-      "updated": "2026-04-16T09:50:12Z",
+      "last_commit": "2026-04-16T09:50:12Z",
       "category": "other"
     },
     {
@@ -393,7 +396,7 @@
       "forks": 79,
       "language": "Python",
       "description": "No description",
-      "updated": "2026-04-16T09:32:56Z",
+      "last_commit": "2026-04-16T09:32:56Z",
       "category": "other"
     },
     {
@@ -404,7 +407,7 @@
       "forks": 421,
       "language": "Python",
       "description": "PaperBanana: Automating Academic Illustration For AI Scientists",
-      "updated": "2026-04-16T09:54:00Z",
+      "last_commit": "2026-04-16T09:54:00Z",
       "category": "other"
     },
     {
@@ -415,7 +418,7 @@
       "forks": 72878,
       "language": "TypeScript",
       "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "updated": "2026-04-16T09:57:54Z",
+      "last_commit": "2026-04-16T09:57:54Z",
       "category": "general"
     },
     {
@@ -426,7 +429,7 @@
       "forks": 46223,
       "language": "Python",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provi",
-      "updated": "2026-04-16T09:55:24Z",
+      "last_commit": "2026-04-16T09:55:24Z",
       "category": "general"
     },
     {
@@ -437,7 +440,7 @@
       "forks": 22102,
       "language": "Python",
       "description": "The agent engineering platform",
-      "updated": "2026-04-16T09:57:08Z",
+      "last_commit": "2026-04-16T09:57:08Z",
       "category": "general"
     },
     {
@@ -448,7 +451,7 @@
       "forks": 12667,
       "language": "Python",
       "description": "The agent that grows with you",
-      "updated": "2026-04-16T09:58:20Z",
+      "last_commit": "2026-04-16T09:58:20Z",
       "category": "general"
     },
     {
@@ -459,7 +462,7 @@
       "forks": 8506,
       "language": "Python",
       "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
-      "updated": "2026-04-16T09:46:40Z",
+      "last_commit": "2026-04-16T09:46:40Z",
       "category": "general"
     },
     {
@@ -470,7 +473,7 @@
       "forks": 7986,
       "language": "Python",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of",
-      "updated": "2026-04-16T09:58:00Z",
+      "last_commit": "2026-04-16T09:58:00Z",
       "category": "general"
     },
     {
@@ -481,7 +484,7 @@
       "forks": 8598,
       "language": "Python",
       "description": "A programming framework for agentic AI",
-      "updated": "2026-04-16T09:55:33Z",
+      "last_commit": "2026-04-16T09:55:33Z",
       "category": "general"
     },
     {
@@ -492,7 +495,7 @@
       "forks": 6698,
       "language": "Python",
       "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intellige",
-      "updated": "2026-04-16T09:50:14Z",
+      "last_commit": "2026-04-16T09:50:14Z",
       "category": "general"
     },
     {
@@ -503,7 +506,7 @@
       "forks": 7197,
       "language": "Python",
       "description": "LlamaIndex is the leading document agent and OCR platform",
-      "updated": "2026-04-16T08:57:30Z",
+      "last_commit": "2026-04-16T08:57:30Z",
       "category": "general"
     },
     {
@@ -514,7 +517,7 @@
       "forks": 4092,
       "language": "TypeScript",
       "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to fr",
-      "updated": "2026-04-16T09:28:42Z",
+      "last_commit": "2026-04-16T09:28:42Z",
       "category": "general"
     },
     {
@@ -525,7 +528,7 @@
       "forks": 5033,
       "language": "Python",
       "description": "Build resilient language agents as graphs.",
-      "updated": "2026-04-16T09:57:29Z",
+      "last_commit": "2026-04-16T09:57:29Z",
       "category": "other"
     },
     {
@@ -536,7 +539,7 @@
       "forks": 3425,
       "language": "Python",
       "description": "A lightweight, powerful framework for multi-agent workflows",
-      "updated": "2026-04-16T09:42:05Z",
+      "last_commit": "2026-04-16T09:42:05Z",
       "category": "other"
     }
   ],

@@ -1,6 +1,10 @@
 # Framework Comparison Matrix
 
-> Last updated: 2026-04-16 | 数据来源: [OnePersonLab Website](https://github.com/onepersonlab/onepersonlab-website)
+> 数据更新: 2026-04-16 | 数据来源: [OnePersonLab Website](https://github.com/onepersonlab/onepersonlab-website)
+>
+> **字段说明：**
+> - `daily_stars`: 日增 Stars（当前 - 昨天）
+> - `last_commit`: GitHub 仓库最后一次 commit 时间
 
 ---
 

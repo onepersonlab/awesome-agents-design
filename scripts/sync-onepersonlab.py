@@ -66,7 +66,7 @@ def format_framework(fw):
         "forks": fw.get("forks", 0),
         "language": fw.get("language", "Unknown"),
         "description": fw.get("description", "")[:100],
-        "updated": fw.get("updated", ""),
+        "last_commit": fw.get("updated", ""),  # GitHub repo last commit time, NOT website update time
     }
 
 def main():
@@ -108,9 +108,12 @@ def main():
     
     # Build output JSON
     output = {
-        "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),  # Website data sync time
         "source": "OnePersonLab Website (https://github.com/onepersonlab/onepersonlab-website)",
-        "note": "daily_stars = 当前Stars - 昨天Stars（日增，非周增）",
+        "notes": [
+            "daily_stars = 当前Stars - 昨天Stars（日增，非周增）",
+            "last_commit = GitHub仓库最后一次commit时间（不是网站更新时间）"
+        ],
         "dashboards": {
             "research_projects": [
                 {
