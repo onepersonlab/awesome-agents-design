@@ -1,0 +1,121 @@
+{
+  "last_updated": "2026-04-16T09:30:00Z",
+  "frameworks": [
+    {
+      "name": "aiming-lab/AutoResearchClaw",
+      "category": "research",
+      "stars": 11232,
+      "forks": 1285,
+      "issues": 5,
+      "updated_at": "2026-04-16T08:59:55Z",
+      "language": "Python",
+      "description": "Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞",
+      "active": true
+    },
+    {
+      "name": "wentorai/Research-Claw",
+      "category": "research",
+      "stars": 696,
+      "forks": 91,
+      "issues": 1,
+      "updated_at": "2026-04-16T08:59:57Z",
+      "language": "TypeScript",
+      "description": "In the AI era, why can't everyone be a Principal Investigator?",
+      "active": true
+    },
+    {
+      "name": "microsoft/autogen",
+      "category": "general",
+      "stars": 57138,
+      "forks": 8598,
+      "issues": 766,
+      "updated_at": "2026-04-16T09:18:17Z",
+      "language": "Python",
+      "description": "A programming framework for agentic AI",
+      "active": true
+    },
+    {
+      "name": "crewAIInc/crewAI",
+      "category": "general",
+      "stars": 48996,
+      "forks": 6698,
+      "issues": 528,
+      "updated_at": "2026-04-16T09:18:23Z",
+      "language": "Python",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents",
+      "active": true
+    },
+    {
+      "name": "langchain-ai/langgraph",
+      "category": "general",
+      "stars": 29416,
+      "forks": 5033,
+      "issues": 494,
+      "updated_at": "2026-04-16T09:25:33Z",
+      "language": "Python",
+      "description": "Build resilient language agents as graphs",
+      "active": true
+    },
+    {
+      "name": "openai/swarm",
+      "category": "general",
+      "stars": 21316,
+      "forks": 2276,
+      "issues": 25,
+      "updated_at": "2026-04-16T09:25:45Z",
+      "language": "Python",
+      "description": "Educational framework for lightweight multi-agent orchestration",
+      "active": true
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "category": "general",
+      "stars": 183481,
+      "forks": 46223,
+      "issues": 378,
+      "updated_at": "2026-04-16T09:22:39Z",
+      "language": "Python",
+      "description": "AutoGPT is the vision of accessible AI for everyone",
+      "active": true
+    },
+    {
+      "name": "openclaw/openclaw",
+      "category": "platform",
+      "stars": 358474,
+      "forks": 72876,
+      "issues": 18881,
+      "updated_at": "2026-04-16T09:26:50Z",
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "active": true
+    },
+    {
+      "name": "geekan/MetaGPT",
+      "category": "general",
+      "stars": 52821,
+      "forks": 6255,
+      "issues": 407,
+      "updated_at": "2026-04-15T12:00:00Z",
+      "language": "Python",
+      "description": "The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "active": true
+    },
+    {
+      "name": "sakana-ai/AI-Scientist",
+      "category": "research",
+      "stars": 8216,
+      "forks": 945,
+      "issues": 78,
+      "updated_at": "2026-04-15T10:00:00Z",
+      "language": "Python",
+      "description": "The AI Scientist: Automated Scientific Research",
+      "active": true
+    }
+  ],
+  "summary": {
+    "total_frameworks": 10,
+    "total_stars": 734285,
+    "most_popular": "openclaw/openclaw",
+    "fastest_growing": "aiming-lab/AutoResearchClaw"
+  }
+}
